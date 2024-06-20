@@ -1,0 +1,15 @@
+C:\Users\dibak\source\repos\GForm\GForm\obj\Debug\GForm.vbproj.AssemblyReference.cache
+C:\Users\dibak\source\repos\GForm\GForm\obj\Debug\GForm.Form1.resources
+C:\Users\dibak\source\repos\GForm\GForm\obj\Debug\GForm.Resources.resources
+C:\Users\dibak\source\repos\GForm\GForm\obj\Debug\GForm.vbproj.GenerateResource.cache
+C:\Users\dibak\source\repos\GForm\GForm\obj\Debug\GForm.vbproj.CoreCompileInputs.cache
+C:\Users\dibak\source\repos\GForm\GForm\bin\Debug\GForm.exe.config
+C:\Users\dibak\source\repos\GForm\GForm\bin\Debug\GForm.exe
+C:\Users\dibak\source\repos\GForm\GForm\bin\Debug\GForm.pdb
+C:\Users\dibak\source\repos\GForm\GForm\bin\Debug\GForm.xml
+C:\Users\dibak\source\repos\GForm\GForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dibak\source\repos\GForm\GForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dibak\source\repos\GForm\GForm\obj\Debug\GForm.vbproj.Up2Date
+C:\Users\dibak\source\repos\GForm\GForm\obj\Debug\GForm.exe
+C:\Users\dibak\source\repos\GForm\GForm\obj\Debug\GForm.xml
+C:\Users\dibak\source\repos\GForm\GForm\obj\Debug\GForm.pdb
