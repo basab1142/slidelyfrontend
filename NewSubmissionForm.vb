@@ -47,4 +47,17 @@ Public Class NewSubmissionForm
             btnSubmit.PerformClick()
         End If
     End Sub
+
+    Private Sub NewSubmissionForm_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        btnStopwatch.BackColor = Color.Yellow
+        btnSubmit.BackColor = Color.Blue
+
+        Dim lblName As New Label()
+        lblName.Text = "Basab Ghosh Slidely Task-2 Slidely Form App"
+        lblName.Font = New Font("Arial", 16, FontStyle.Bold)
+        lblName.AutoSize = True
+        lblName.Location = New Point(10, 10)
+        Me.Controls.Add(lblName)
+
+    End Sub
 End Class
